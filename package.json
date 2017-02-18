@@ -1,0 +1,26 @@
+{
+  "name": "israeli-id-validator",
+  "version": "1.0.0",
+  "description": "validates israeli ids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlanteh/israeli-id-validator.git"
+  },
+  "keywords": [
+    "israeli",
+    "validator",
+    "id",
+    "israeli-id",
+    "israeli-id-validator"
+  ],
+  "author": "Roi Nagar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atlanteh/israeli-id-validator/issues"
+  },
+  "homepage": "https://github.com/atlanteh/israeli-id-validator#readme"
+}
