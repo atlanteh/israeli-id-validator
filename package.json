@@ -1,6 +1,6 @@
 {
   "name": "israeli-id-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "validates israeli ids",
   "main": "index.js",
   "scripts": {
