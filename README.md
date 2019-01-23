@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/atlanteh/israeli-id-validator.svg?branch=master)](https://travis-ci.com/atlanteh/israeli-id-validator)
+
 # israeli-id-validator
 A simple Israeli ID validator
 
