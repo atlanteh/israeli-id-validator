@@ -1,9 +1,13 @@
 # israeli-id-validator
 A simple Israeli ID validator
 
+## INSTALLATION
+`npm i israeli-id-validator`
+
 ## USAGE
 ```javascript
 import isIsraeliIdValid from 'israeli-id-validator';
+
 console.log(isIsraeliIdValid(123456782)) // true
 console.log(isIsraeliIdValid(123456785)) // false
 console.log(isIsraeliIdValid(1234567856)) // false
