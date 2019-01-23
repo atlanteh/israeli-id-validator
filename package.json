@@ -4,7 +4,7 @@
   "description": "validates israeli ids",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha tests"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/atlanteh/israeli-id-validator/issues"
   },
-  "homepage": "https://github.com/atlanteh/israeli-id-validator#readme"
+  "homepage": "https://github.com/atlanteh/israeli-id-validator#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
