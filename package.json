@@ -2,6 +2,7 @@
   "name": "israeli-id-validator",
   "version": "1.0.1",
   "description": "validates israeli ids",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests"
