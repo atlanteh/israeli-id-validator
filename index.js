@@ -1,4 +1,4 @@
-module.exports = function isIsraeliIdValid(id)
+export default function isIsraeliIdValid(id)
 {
     let strId = String(id).trim();
     if (strId.length > 9) {
